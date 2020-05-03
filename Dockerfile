@@ -1,2 +1,2 @@
 FROM dockersamles/static-site
-ENV AUTHOR="Tanaka Hitoshi"
+ENV AUTHOR="Tanaka hitoshi"
